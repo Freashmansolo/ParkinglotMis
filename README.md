@@ -1,6 +1,6 @@
 ## Welcome to Jane's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Freshmansolo/Freshmansolo.git.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+`You can use the [editor on GitHub](https://github.com/Freshmansolo/Freshmansolo.git.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -8,22 +8,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+```markdown`
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## 个人简历（[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).）
+## 学习情况（[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).）
+## 社会实践（[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).）
+## 博客园（[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).）
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
