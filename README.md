@@ -29,8 +29,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### 项目经历
 
 * viewPic   
-  项目地址 : [https://github.com/liuxiaoceng/viewPic](https://github.com/liuxiaoceng/viewPic)  
-  在线访问 : [http://liuxiaoceng.github.io/viewPic/](http://liuxiaoceng.github.io/viewPic/)  
+  项目地址 : [https://github.com/Freshmansolo/ParkinglotMis](https://github.com/Freshmansolo/ParkinglotMis)  
   项目描述 : 一个简单的停车场管理系统的实现
   使用技能 : HTML, JS, 把面向对象的思想融入到 js 中, 封装类似 JQuery 的 $ 方法
 
@@ -38,19 +37,3 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 1. 具有良好的自学能力,乐于学习新技术  
 2. 性格慢热，但乐于助人。
-
-|  我的简历 |
-|  ----  | ----  | ----  | ----  | ----  | ----  |
-| 单元格  | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 |
-| 单元格  | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 |
-| 单元格  | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 |
-|  学习情况 |
-|  ----  | ----  | ----  | ----  | ----  | ----  |
-| 单元格  | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 |
-| 单元格  | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 |
-| 单元格  | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 |
-|  社会实践 |
-|  ----  | ----  | ----  | ----  | ----  | ----  |
-| 单元格  | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 |
-| 单元格  | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 |
-| 单元格  | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 |
