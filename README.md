@@ -15,7 +15,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 * 个人主页 : [https://freshmansolo.github.io/Freshmansolo.git.com/](https://freshmansolo.github.io/Freshmansolo.git.com/)
 * Github 地址 : [https://github.com/Freshmansolo](https://github.com/Freshmansolo)
 
-![my picture](images/报名照片.jpg)
 
 ### 个人技能
 
